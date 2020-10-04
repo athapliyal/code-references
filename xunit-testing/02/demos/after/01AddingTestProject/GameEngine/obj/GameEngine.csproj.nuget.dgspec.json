@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sama_\\Downloads\\xunit-testing\\02\\demos\\after\\01AddingTestProject\\GameEngine\\GameEngine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sama_\\Downloads\\xunit-testing\\02\\demos\\after\\01AddingTestProject\\GameEngine\\GameEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sama_\\Downloads\\xunit-testing\\02\\demos\\after\\01AddingTestProject\\GameEngine\\GameEngine.csproj",
+        "projectName": "GameEngine",
+        "projectPath": "C:\\Users\\sama_\\Downloads\\xunit-testing\\02\\demos\\after\\01AddingTestProject\\GameEngine\\GameEngine.csproj",
+        "packagesPath": "C:\\Users\\sama_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sama_\\Downloads\\xunit-testing\\02\\demos\\after\\01AddingTestProject\\GameEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sama_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
